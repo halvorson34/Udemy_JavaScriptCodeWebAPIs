@@ -1,0 +1,19 @@
+{
+    "friends" : [
+        {
+            "first" : "John",
+            "last" : "Smith",
+            "id" : 1
+        },
+        {
+            "first" : "Mike",
+            "last" : "Jones",
+            "id" : 2
+        },
+        {
+            "first" : "Larry",
+            "last" : "Brown",
+            "id" : 3
+        }
+    ]
+}
