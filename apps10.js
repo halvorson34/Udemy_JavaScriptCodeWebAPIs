@@ -12,6 +12,14 @@ btn.onclick = () => {
     })
 }
 
+btn1.onclick = () => {
+    clearPage();
+}
+
+function clearPage() {
+    output.innerHTML = '';
+}
+
 function getData(data) {
     console.log(data);
     let html = '';
