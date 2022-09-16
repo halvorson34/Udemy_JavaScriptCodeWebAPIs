@@ -13,7 +13,7 @@ const output = document.querySelector(".output");
 
 const url = 'https://api.github.com/zen';
 const url1 = 'https://api.github.com/';
-const url2 = 'https://api.github.com/search/repositories?q=javascript&per_page=5';
+const url2 = 'https://api.github.com/search/repositories?q=javascript';
 
 btn.onclick = () => {
     fetch(url)
